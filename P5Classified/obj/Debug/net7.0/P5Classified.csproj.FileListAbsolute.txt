@@ -1,0 +1,15 @@
+C:\Projects\gp23-014-csharp-oop-basics-meet-rakholia\P5Classified\bin\Debug\net7.0\P5Classified.exe
+C:\Projects\gp23-014-csharp-oop-basics-meet-rakholia\P5Classified\bin\Debug\net7.0\P5Classified.deps.json
+C:\Projects\gp23-014-csharp-oop-basics-meet-rakholia\P5Classified\bin\Debug\net7.0\P5Classified.runtimeconfig.json
+C:\Projects\gp23-014-csharp-oop-basics-meet-rakholia\P5Classified\bin\Debug\net7.0\P5Classified.dll
+C:\Projects\gp23-014-csharp-oop-basics-meet-rakholia\P5Classified\bin\Debug\net7.0\P5Classified.pdb
+C:\Projects\gp23-014-csharp-oop-basics-meet-rakholia\P5Classified\obj\Debug\net7.0\P5Classified.csproj.AssemblyReference.cache
+C:\Projects\gp23-014-csharp-oop-basics-meet-rakholia\P5Classified\obj\Debug\net7.0\P5Classified.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\gp23-014-csharp-oop-basics-meet-rakholia\P5Classified\obj\Debug\net7.0\P5Classified.AssemblyInfoInputs.cache
+C:\Projects\gp23-014-csharp-oop-basics-meet-rakholia\P5Classified\obj\Debug\net7.0\P5Classified.AssemblyInfo.cs
+C:\Projects\gp23-014-csharp-oop-basics-meet-rakholia\P5Classified\obj\Debug\net7.0\P5Classified.csproj.CoreCompileInputs.cache
+C:\Projects\gp23-014-csharp-oop-basics-meet-rakholia\P5Classified\obj\Debug\net7.0\P5Classified.dll
+C:\Projects\gp23-014-csharp-oop-basics-meet-rakholia\P5Classified\obj\Debug\net7.0\refint\P5Classified.dll
+C:\Projects\gp23-014-csharp-oop-basics-meet-rakholia\P5Classified\obj\Debug\net7.0\P5Classified.pdb
+C:\Projects\gp23-014-csharp-oop-basics-meet-rakholia\P5Classified\obj\Debug\net7.0\P5Classified.genruntimeconfig.cache
+C:\Projects\gp23-014-csharp-oop-basics-meet-rakholia\P5Classified\obj\Debug\net7.0\ref\P5Classified.dll
