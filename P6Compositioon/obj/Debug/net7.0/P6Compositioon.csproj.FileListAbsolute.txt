@@ -1,0 +1,15 @@
+C:\Projects\gp23-014-csharp-oop-basics-meet-rakholia\P6Compositioon\bin\Debug\net7.0\P6Compositioon.exe
+C:\Projects\gp23-014-csharp-oop-basics-meet-rakholia\P6Compositioon\bin\Debug\net7.0\P6Compositioon.deps.json
+C:\Projects\gp23-014-csharp-oop-basics-meet-rakholia\P6Compositioon\bin\Debug\net7.0\P6Compositioon.runtimeconfig.json
+C:\Projects\gp23-014-csharp-oop-basics-meet-rakholia\P6Compositioon\bin\Debug\net7.0\P6Compositioon.dll
+C:\Projects\gp23-014-csharp-oop-basics-meet-rakholia\P6Compositioon\bin\Debug\net7.0\P6Compositioon.pdb
+C:\Projects\gp23-014-csharp-oop-basics-meet-rakholia\P6Compositioon\obj\Debug\net7.0\P6Compositioon.csproj.AssemblyReference.cache
+C:\Projects\gp23-014-csharp-oop-basics-meet-rakholia\P6Compositioon\obj\Debug\net7.0\P6Compositioon.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\gp23-014-csharp-oop-basics-meet-rakholia\P6Compositioon\obj\Debug\net7.0\P6Compositioon.AssemblyInfoInputs.cache
+C:\Projects\gp23-014-csharp-oop-basics-meet-rakholia\P6Compositioon\obj\Debug\net7.0\P6Compositioon.AssemblyInfo.cs
+C:\Projects\gp23-014-csharp-oop-basics-meet-rakholia\P6Compositioon\obj\Debug\net7.0\P6Compositioon.csproj.CoreCompileInputs.cache
+C:\Projects\gp23-014-csharp-oop-basics-meet-rakholia\P6Compositioon\obj\Debug\net7.0\P6Compositioon.dll
+C:\Projects\gp23-014-csharp-oop-basics-meet-rakholia\P6Compositioon\obj\Debug\net7.0\refint\P6Compositioon.dll
+C:\Projects\gp23-014-csharp-oop-basics-meet-rakholia\P6Compositioon\obj\Debug\net7.0\P6Compositioon.pdb
+C:\Projects\gp23-014-csharp-oop-basics-meet-rakholia\P6Compositioon\obj\Debug\net7.0\P6Compositioon.genruntimeconfig.cache
+C:\Projects\gp23-014-csharp-oop-basics-meet-rakholia\P6Compositioon\obj\Debug\net7.0\ref\P6Compositioon.dll
