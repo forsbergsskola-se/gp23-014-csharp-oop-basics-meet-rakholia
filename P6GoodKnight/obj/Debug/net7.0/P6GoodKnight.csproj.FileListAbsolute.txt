@@ -1,0 +1,15 @@
+C:\Projects\gp23-014-csharp-oop-basics-meet-rakholia\P6GoodKnight\obj\Debug\net7.0\P6GoodKnight.csproj.AssemblyReference.cache
+C:\Projects\gp23-014-csharp-oop-basics-meet-rakholia\P6GoodKnight\obj\Debug\net7.0\P6GoodKnight.GeneratedMSBuildEditorConfig.editorconfig
+C:\Projects\gp23-014-csharp-oop-basics-meet-rakholia\P6GoodKnight\obj\Debug\net7.0\P6GoodKnight.AssemblyInfoInputs.cache
+C:\Projects\gp23-014-csharp-oop-basics-meet-rakholia\P6GoodKnight\obj\Debug\net7.0\P6GoodKnight.AssemblyInfo.cs
+C:\Projects\gp23-014-csharp-oop-basics-meet-rakholia\P6GoodKnight\obj\Debug\net7.0\P6GoodKnight.csproj.CoreCompileInputs.cache
+C:\Projects\gp23-014-csharp-oop-basics-meet-rakholia\P6GoodKnight\bin\Debug\net7.0\P6GoodKnight.exe
+C:\Projects\gp23-014-csharp-oop-basics-meet-rakholia\P6GoodKnight\bin\Debug\net7.0\P6GoodKnight.deps.json
+C:\Projects\gp23-014-csharp-oop-basics-meet-rakholia\P6GoodKnight\bin\Debug\net7.0\P6GoodKnight.runtimeconfig.json
+C:\Projects\gp23-014-csharp-oop-basics-meet-rakholia\P6GoodKnight\bin\Debug\net7.0\P6GoodKnight.dll
+C:\Projects\gp23-014-csharp-oop-basics-meet-rakholia\P6GoodKnight\bin\Debug\net7.0\P6GoodKnight.pdb
+C:\Projects\gp23-014-csharp-oop-basics-meet-rakholia\P6GoodKnight\obj\Debug\net7.0\P6GoodKnight.dll
+C:\Projects\gp23-014-csharp-oop-basics-meet-rakholia\P6GoodKnight\obj\Debug\net7.0\refint\P6GoodKnight.dll
+C:\Projects\gp23-014-csharp-oop-basics-meet-rakholia\P6GoodKnight\obj\Debug\net7.0\P6GoodKnight.pdb
+C:\Projects\gp23-014-csharp-oop-basics-meet-rakholia\P6GoodKnight\obj\Debug\net7.0\P6GoodKnight.genruntimeconfig.cache
+C:\Projects\gp23-014-csharp-oop-basics-meet-rakholia\P6GoodKnight\obj\Debug\net7.0\ref\P6GoodKnight.dll
